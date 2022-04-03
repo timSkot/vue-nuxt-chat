@@ -1,10 +1,10 @@
 # chat-nuxt
 
-> My world-class Nuxt.js project
+> My Nuxt.js project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install
 
